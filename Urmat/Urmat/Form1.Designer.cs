@@ -45,7 +45,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(180, 46);
+            this.label1.Location = new System.Drawing.Point(56, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 1;
@@ -82,12 +82,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-=======
-        private System.Windows.Forms.Button button2;
->>>>>>> e890e54d06c33c59a0fd13e9950598ef5eb4cfbd
-=======
->>>>>>> 442694c08bbcb01716808849d70b721c0f474536
     }
 }
 
