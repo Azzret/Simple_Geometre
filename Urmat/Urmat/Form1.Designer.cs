@@ -29,14 +29,7 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-<<<<<<< HEAD
-<<<<<<< HEAD
             this.label1 = new System.Windows.Forms.Label();
-=======
-            this.button2 = new System.Windows.Forms.Button();
->>>>>>> e890e54d06c33c59a0fd13e9950598ef5eb4cfbd
-=======
->>>>>>> 442694c08bbcb01716808849d70b721c0f474536
             this.SuspendLayout();
             // 
             // button1
@@ -48,42 +41,21 @@
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
-<<<<<<< HEAD
-<<<<<<< HEAD
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(56, 47);
+            this.label1.Location = new System.Drawing.Point(161, 46);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "label1";
-=======
-            // button2
             // 
-            this.button2.Location = new System.Drawing.Point(157, 40);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Urmat";
-            this.button2.UseVisualStyleBackColor = true;
->>>>>>> e890e54d06c33c59a0fd13e9950598ef5eb4cfbd
-            // 
-=======
->>>>>>> 442694c08bbcb01716808849d70b721c0f474536
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-<<<<<<< HEAD
-<<<<<<< HEAD
             this.Controls.Add(this.label1);
-=======
-            this.Controls.Add(this.button2);
->>>>>>> e890e54d06c33c59a0fd13e9950598ef5eb4cfbd
-=======
->>>>>>> 442694c08bbcb01716808849d70b721c0f474536
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
